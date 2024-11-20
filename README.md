@@ -13,7 +13,7 @@ Soy un hondureño creativo multifacético con amplia experiencia en proyectos in
 
 ## 💼 Experiencias Laborales
 
-### 🌐 Desarrollador para Google Chrome
+### 🌐 Desarrollador web
 
 **Autónomo, Guatemala**  
 _02/2023 - Presente_
