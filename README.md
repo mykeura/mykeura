@@ -7,7 +7,7 @@
 
 ## 🌟 Perfil Profesional
 
-Soy un hondureño creativo multifacético con amplia experiencia en proyectos innovadores que fusionan tecnología y educación. Especializado en creación de contenido visual, SEO y redacción atractiva.
+Soy un creativo multifacético con amplia experiencia en proyectos innovadores que fusionan tecnología y educación. Especializado en creación de contenido visual, SEO y redacción atractiva.
 
 ---
 
