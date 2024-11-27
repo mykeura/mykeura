@@ -7,7 +7,7 @@
 
 ## 🌟 Perfil Profesional
 
-Soy un creativo multifacético con amplia experiencia en proyectos innovadores que fusionan tecnología y educación. Especializado en creación de contenido visual, SEO y redacción atractiva.
+Soy un creativo multifacético con amplia experiencia en proyectos innovadores que fusionan nuevas tecnologías y educación. Especializado en creación de contenido digital, SEO y redacción creativa.
 
 ---
 
