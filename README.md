@@ -66,13 +66,13 @@ _03/2010 - 08/2016_
 ## 🎓 Formación Académica
 
 - **Máster en Educación con especialización en Formación del Profesorado**  
-  Universidad Europea del Atlántico, Santander, 2021
+  Universidad Europea del Atlántico, Santander
 - **Máster en Educación con especialización en Formación del Profesorado**  
-  Universidad Panamericana, Ciudad de México, 2021
+  Universidad Panamericana, Ciudad de México
 - **Licenciatura en Teología con énfasis en Exposición Bíblica**  
-  Universidad San Pablo de Guatemala, Ciudad de Guatemala, 2015
+  Universidad San Pablo de Guatemala, Ciudad de Guatemala
 - **Licenciatura en Teología con énfasis en Exposición Bíblica**  
-  Seminario Teológico Centroamericano, Ciudad de Guatemala, 2015
+  Seminario Teológico Centroamericano, Ciudad de Guatemala
 
 ---
 
