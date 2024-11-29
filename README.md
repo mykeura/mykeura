@@ -58,44 +58,15 @@ _09/2014 - 11/2020_
 **Autónomo, Guatemala**  
 _03/2010 - 08/2016_
 
-- Creación de artículos SEO sobre liderazgo, tecnología, educación y desarrollo personal.
+- Creación de artículos SEO sobre liderazgo, nuevas tecnologías, educación y desarrollo personal.
 - Generación de contenidos en WordPress para varios sitios web sobre recursos en línea.
-
----
-
-## 🎓 Formación Académica
-
-- **Máster en Educación con especialización en Formación del Profesorado**  
-  Universidad Europea del Atlántico, Santander
-- **Máster en Educación con especialización en Formación del Profesorado**  
-  Universidad Panamericana, Ciudad de México
-- **Licenciatura en Teología con énfasis en Exposición Bíblica**  
-  Universidad San Pablo de Guatemala, Ciudad de Guatemala
-- **Licenciatura en Teología con énfasis en Exposición Bíblica**  
-  Seminario Teológico Centroamericano, Ciudad de Guatemala
-
----
-
-## 📜 Cursos y Certificaciones
-
-- **Líder en mí** (Franklin Covey, 2020)
-- **Como crear un curso Udemy** (Udemy, 2018)
-- **Aprendiendo a aprender** (UC San Diego, 2018)
-- **El desafío de innovar en la educación superior** (Universidad de Chile, 2017)
-- **Fundamentos del marketing online** (Video2brain, 2017)
-- **Certificación de Inbound Marketing** (Hubspot, 2017)
-- **Como utilizar Instagram y Snapchat para tu negocio** (Udemy, 2016)
-- **Especial WordPress Seguridad** (Video2brain, 2016)
-- **Curso básico de Marketing Digital** (Google, 2016)
-
----
 
 ## 🛠️ Habilidades Claves
 
 - Creación de Contenidos Digitales Atractivos
 - Gestión de Comunidades en Línea
-- Community Management
-- Optimización SEO (White Hat)
+- Desarrolllo de Contenidos usando Nuevas Tecnologías
+- Optimización para los motores de búsqueda (White Hat)
 - Redacción Web Efectiva y SEO
 - Facilitación de Talleres/Capacitaciones
 - Mentoría y Desarrollo Académico
@@ -108,7 +79,7 @@ _03/2010 - 08/2016_
 - Administración de Sitios Web en WordPress
 - Educación Virtual e Híbrida
 - Maquetación y Diseño Editorial Digital
-- Conocimientos de Sistemas Operativos (Windows, Mac, Linux)
+- Conocimientos de Sistemas Operativos
 
 ---
 
