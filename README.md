@@ -18,9 +18,6 @@ Soy un profesional versátil con una sólida trayectoria en la integración de t
 - **Gestión de Proyectos Digitales**: Experiencia en administración de proyectos con WordPress y colaboración virtual efectiva en entornos GNU/Linux y Windows.
 
 Con un enfoque en la creación de experiencias digitales cautivadoras, estoy comprometido a ayudar a empresas visionarias a expandir su alcance y conectar de manera efectiva con sus audiencias. Mi habilidad para combinar técnicas de SEO con estrategias de contenido innovadoras me posiciona como un socio estratégico para cualquier organización que busque liderar en el entorno digital.
-- Educación Virtual e Híbrida
-- Maquetación y Diseño Editorial Digital
-- Conocimientos de Sistemas Operativos
 
 ---
 
