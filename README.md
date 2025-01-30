@@ -1,21 +1,20 @@
 # Miguel Euraque
 
-**Ciudad de Guatemala, Guatemala**  
 [Correo electrónico](mailto:miguel@vidaextrema.org) • [LinkedIn](https://linkedin.com/in/mykeura)
 
 ---
 
-## 🌟 Especialista en SEO Técnico y Desarrollo Web con un Enfoque Creativo
+## 🌟 Technical SEO and Web Development Specialist with a Creative Edge
 
-Soy un profesional versátil con una sólida trayectoria en la integración de tecnología y creatividad para impulsar la presencia digital de empresas y proyectos. Mi experiencia abarca desde la optimización SEO hasta el desarrollo de contenido visual y editorial, todo con un enfoque en la innovación y la eficacia.
+I am a versatile professional with a solid background in merging technology and creativity to boost the online presence of businesses and projects. My experience spans from SEO optimization to the integration of web solutions, all with a focus on innovation and effectiveness.
 
-**Habilidades Clave:**
+**Key Skills:**
 
-- **SEO Técnico Avanzado**: Implementación de estrategias de White Hat SEO para mejorar el posicionamiento en buscadores, asegurando un aumento en la visibilidad y el tráfico web.
-- **Desarrollo Web y Extensiones**: Creación de temas personalizados para Google Chrome y desarrollo de sitios web optimizados, ofreciendo experiencias únicas y funcionales.
-- **Contenido Visual con IA**: Generación de imágenes de stock de alta calidad utilizando inteligencia artificial, adaptadas a las necesidades de plataformas de contenido visual.
-- **Diseño Editorial y Publicación**: Diseño y producción de libros, cuadernos y agendas personalizadas, optimizando su descubrimiento en plataformas digitales.
-- **Gestión de Proyectos Digitales**: Experiencia en administración de proyectos con WordPress y colaboración virtual efectiva en entornos GNU/Linux y Windows.
+- **Advanced Technical SEO:** Implementation of White Hat SEO strategies to enhance search engine rankings, ensuring increased visibility and web traffic.  
+- **Web and Extension Development:** Creation of custom Google Chrome themes and optimized websites, delivering unique and functional experiences.  
+- **Digital Project Management:** Experienced in WordPress administration and effective virtual collaboration across GNU/Linux and Windows environments.  
+
+With a focus on crafting captivating digital experiences, I am dedicated to helping visionary companies expand their reach and connect with their audiences effectively. My ability to combine SEO techniques with innovative content strategies positions me as a strategic partner for any organization looking to lead in the digital sphere.
 
 Con un enfoque en la creación de experiencias digitales cautivadoras, estoy comprometido a ayudar a empresas visionarias a expandir su alcance y conectar de manera efectiva con sus audiencias. Mi habilidad para combinar técnicas de SEO con estrategias de contenido innovadoras me posiciona como un socio estratégico para cualquier organización que busque liderar en el entorno digital.
 
