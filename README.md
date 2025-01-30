@@ -1,6 +1,6 @@
 # Miguel Euraque
 
-[Correo electrónico](mailto:miguel@vidaextrema.org) • [LinkedIn](https://linkedin.com/in/mykeura)
+📬 [Correo electrónico](mailto:miguel@vidaextrema.org) • 👨‍💼 [LinkedIn](https://linkedin.com/in/mykeura)
 
 ---
 
@@ -15,12 +15,3 @@ I am a versatile professional with a solid background in merging technology and 
 - **Digital Project Management:** Experienced in WordPress administration and effective virtual collaboration across GNU/Linux and Windows environments.  
 
 With a focus on crafting captivating digital experiences, I am dedicated to helping visionary companies expand their reach and connect with their audiences effectively. My ability to combine SEO techniques with innovative content strategies positions me as a strategic partner for any organization looking to lead in the digital sphere.
-
-Con un enfoque en la creación de experiencias digitales cautivadoras, estoy comprometido a ayudar a empresas visionarias a expandir su alcance y conectar de manera efectiva con sus audiencias. Mi habilidad para combinar técnicas de SEO con estrategias de contenido innovadoras me posiciona como un socio estratégico para cualquier organización que busque liderar en el entorno digital.
-
----
-
-## 📱 Redes Sociales
-
-- **Pinterest**: [@mykeura](https://www.pinterest.com/mykeura) (Más de 13,000 seguidores y 10 millones de visitas mensuales)
-- **Blog**: [Vida Extrema](https://vidaextrema.com) (Gestión de un popular blog de recursos educativos para jóvenes basado en WordPress)
