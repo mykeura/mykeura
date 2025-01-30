@@ -1,6 +1,6 @@
 # Miguel Euraque
 
-📬 [Correo electrónico](mailto:miguel@vidaextrema.org) • 👨‍💼 [LinkedIn](https://linkedin.com/in/mykeura)
+📬 [Email](mailto:miguel@vidaextrema.org) • 👨‍💼 [LinkedIn](https://linkedin.com/in/mykeura)
 
 ---
 
