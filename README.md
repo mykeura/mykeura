@@ -1,9 +1,5 @@
 # Miguel Euraque
 
-📬 [Email](mailto:miguel@vidaextrema.org) • 👨‍💼 [LinkedIn](https://linkedin.com/in/mykeura)
-
----
-
 ## 🌟 Teacher, Technical SEO, and Web Developer
 
 I transform ideas into robust and visible digital experiences. My work focuses on the intersection between technology and education, with the goal of **democratizing knowledge** and **making the web a more inclusive space**.
