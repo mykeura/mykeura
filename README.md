@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Miguel 🧑🏽‍💻
+# 👋 Hey, I'm Miguel
 
 ## Full-Stack Developer | Technical SEO | Educator
 
@@ -15,7 +15,7 @@ _Languages and frameworks I use to build._
 
 ---
 
-### The life of the Full-Stack Developer
+### 🧑🏽‍💻 The life of the Full-Stack Developer
 ```
 week = {
     "Monday": 1,
