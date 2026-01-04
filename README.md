@@ -15,7 +15,7 @@ _Languages and frameworks I use to build._
 
 ---
 
-### 🧑🏽‍💻 The life of the Full-Stack Developer
+### 🧑🏽‍💻 The life of the Developer
 ```
 week = {
     "Monday": 1,
