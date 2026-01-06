@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Miguel
 
-## Full-Stack Developer | Technical SEO | Educator
+## Developer | Technical SEO | Educator
 
 I transform ideas into robust and visible digital experiences. My work focuses on the intersection between technology and education, with the goal of **democratizing knowledge** and **making the web a more inclusive space**.
 
