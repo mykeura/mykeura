@@ -4,7 +4,7 @@
 
 I transform ideas into robust and visible digital experiences. My work focuses on the intersection between technology and education, with the goal of **democratizing knowledge** and **making the web a more inclusive space**.
 
-I am passionate about creating open projects that promote collaboration, learning, and accessibility. I believe that code and the web are powerful tools for **expanding horizons**, connecting people, and building a more equitable digital future.
+I'm passionate about creating open projects that promote collaboration, learning, and accessibility. I believe that code and the web are powerful tools for **expanding horizons**, connecting people, and building a more equitable digital future.
 
 ---
 
@@ -30,14 +30,11 @@ week = {
 today = input("Enter what day of the week it is today: ").capitalize()
 
 if today in week:
-    day_number = week[today]
-
-    if day_number <= 5:
-        print(f"Today's tasks: \n☕ Coffee\n💻 Code\n😪 Sleep\n🔁 Repeat")
+    if week[today] <= 5:
+        print("Today's tasks:\n☕ Coffee\n💻 Code\n😪 Sleep\n🔁 Repeat")
     else:
-        print(
-            f"⚠️ ALERT: Weekend detected! New branch required: go outside and touch the grass 🌱"
-        )
+        print("⚠️ ALERT: Weekend detected! New branch required: go outside and touch the grass 🌱")
 else:
     print("☠️ MERGE CONFLICT: An incorrect day has been detected.")
+
 ```
