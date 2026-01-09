@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Miguel
 
-## Developer | Technical SEO | Educator
+### 😺 about_me()
+
+ROLE = ('Developer', 'Technical SEO', 'Educator')
 
 I transform ideas into robust and visible digital experiences. My work focuses on the intersection between technology and education, with the goal of **democratizing knowledge** and **making the web a more inclusive space**.
 
@@ -8,14 +10,34 @@ I'm passionate about creating open projects that promote collaboration, learning
 
 ---
 
-### 🛠️ Tech Stack & Tools
-_Languages, frameworks and tools I use to build._
+### 🛠️ package.json (Dev Profile Edition)
+_My core dependencies, devDependencies, and tooling for building the web._
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36px" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36px" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36px" title="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36px" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36px" title="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36px" title="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36px" title="Go" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="36px" title="Json" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="36px" title="Astro" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36px" title="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36px" title="Vite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="36px" title="Bash" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="36px" title="Lua" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="36px" title="Cloudflare" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="36px" title="Netlify" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="36px" title="WordPress" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36px" title="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="36px" title="Neovim" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36px" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" width="36px" title="Tmux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36px" title="Python" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36px" title="HTML5" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36px" title="CSS3" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36px" title="JavaScript" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36px" title="React" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36px" title="TypeScript" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36px" title="Go" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="36px" title="Json" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="36px" title="Astro" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36px" title="Tailwind CSS" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36px" title="Vite" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="36px" title="Bash" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="36px" title="Lua" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="36px" title="Cloudflare" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="36px" title="WordPress" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36px" title="Linux" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="36px" title="Neovim" align="left" style="padding-right:10px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36px" title="Git" align="left" style="padding-right:10px" /> 
+<br /><br />
 
 ---
 
-### 🧑🏽‍💻 The life of the Developer
+### 🧑🏽‍💻 My_Daily_Algorithm.py
+_# When in doubt, execute this routine._
+
 ```
 week = {
     "Monday": 1,
@@ -38,3 +60,13 @@ else:
     print("☠️ MERGE CONFLICT: An incorrect day has been detected.")
 
 ```
+
+---
+
+#### 📂 /projects
+_$ git log --oneline --graph --decorate_
+<br /> ✨ Featured open source contributions.
+
+[![Minimalist Hibicus Tea](https://lh3.googleusercontent.com/H5Nj4qOSIJSL4AqtBLGiW-XX1F-3gciYuLsEJxz11sTAk5IMZDm23QCLC3_PGJZhmHzlrsxkKMVYIcYk9V83_F1NML4=s333-w333-h800 "Minimalist Hibiscus Tea")](https://chromewebstore.google.com/detail/minimalist-hibiscus-tea/hkmpfcboggbaapblfbocajjnlhfgobon)
+[![Minimalist Green Tea](https://lh3.googleusercontent.com/ggpwEnWQWXsCtsP4X-FcbqD1domGuNEPS8KxOmFSmnMqIatFsTLudcVH--oVU6XjRC4tC1crkwCd5sdueuxHXowmhA=s333-w333-h800 "Minimalist Green Tea")](https://chromewebstore.google.com/detail/minimalist-green-tea/djdadbepccghjdlhfalllnjplhaaholm)
+[![Minimalist Grape Juice](https://lh3.googleusercontent.com/OIzcarfrYOJCTMqb0Kx9wA2WZkqP19J7g4fJ2RWf9Q-QlVHHun73L235EAyxq8u_c6iW2mR3iYxQ6NiKN9tVW2XjXw=s333-w333-h800 "Minimalist Grape Juice")](https://chromewebstore.google.com/detail/minimalist-grape-juice/ojbhoikombpgbehffhbepfkkfgafpmka)
