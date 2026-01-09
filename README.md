@@ -60,7 +60,7 @@ else:
 
 ---
 
-#### 📂 /projects
+### 📂 /projects
 _$ git log --oneline --graph --decorate_
 <br /> ✨ Featured open source contributions.
 
