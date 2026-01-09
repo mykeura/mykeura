@@ -64,6 +64,6 @@ else:
 _$ git log --oneline --graph --decorate_
 <br /> ✨ Featured open source contributions.
 
-[![Minimalist Hibicus Tea](https://lh3.googleusercontent.com/H5Nj4qOSIJSL4AqtBLGiW-XX1F-3gciYuLsEJxz11sTAk5IMZDm23QCLC3_PGJZhmHzlrsxkKMVYIcYk9V83_F1NML4=s300-w300-h800 "Minimalist Hibiscus Tea")](https://chromewebstore.google.com/detail/minimalist-hibiscus-tea/hkmpfcboggbaapblfbocajjnlhfgobon)
-[![Minimalist Green Tea](https://lh3.googleusercontent.com/ggpwEnWQWXsCtsP4X-FcbqD1domGuNEPS8KxOmFSmnMqIatFsTLudcVH--oVU6XjRC4tC1crkwCd5sdueuxHXowmhA=s300-w300-h800 "Minimalist Green Tea")](https://chromewebstore.google.com/detail/minimalist-green-tea/djdadbepccghjdlhfalllnjplhaaholm)
-[![Minimalist Grape Juice](https://lh3.googleusercontent.com/OIzcarfrYOJCTMqb0Kx9wA2WZkqP19J7g4fJ2RWf9Q-QlVHHun73L235EAyxq8u_c6iW2mR3iYxQ6NiKN9tVW2XjXw=s300-w300-h800 "Minimalist Grape Juice")](https://chromewebstore.google.com/detail/minimalist-grape-juice/ojbhoikombpgbehffhbepfkkfgafpmka)
+[![Minimalist Hibicus Tea](https://lh3.googleusercontent.com/H5Nj4qOSIJSL4AqtBLGiW-XX1F-3gciYuLsEJxz11sTAk5IMZDm23QCLC3_PGJZhmHzlrsxkKMVYIcYk9V83_F1NML4=s260-w260-h800 "Minimalist Hibiscus Tea")](https://chromewebstore.google.com/detail/minimalist-hibiscus-tea/hkmpfcboggbaapblfbocajjnlhfgobon)
+[![Minimalist Green Tea](https://lh3.googleusercontent.com/ggpwEnWQWXsCtsP4X-FcbqD1domGuNEPS8KxOmFSmnMqIatFsTLudcVH--oVU6XjRC4tC1crkwCd5sdueuxHXowmhA=s260-w260-h800 "Minimalist Green Tea")](https://chromewebstore.google.com/detail/minimalist-green-tea/djdadbepccghjdlhfalllnjplhaaholm)
+[![Minimalist Grape Juice](https://lh3.googleusercontent.com/OIzcarfrYOJCTMqb0Kx9wA2WZkqP19J7g4fJ2RWf9Q-QlVHHun73L235EAyxq8u_c6iW2mR3iYxQ6NiKN9tVW2XjXw=s260-w260-h800 "Minimalist Grape Juice")](https://chromewebstore.google.com/detail/minimalist-grape-juice/ojbhoikombpgbehffhbepfkkfgafpmka)
