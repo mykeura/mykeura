@@ -10,28 +10,6 @@ I'm passionate about creating open projects that promote collaboration, learning
 
 ---
 
-### 🛠️ package.json (Dev Profile Edition)
-_My core dependencies, devDependencies, and tooling for building the web._
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36px" title="Python" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36px" title="HTML5" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36px" title="CSS3" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36px" title="JavaScript" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36px" title="TypeScript" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36px" title="React" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="36px" title="Json" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="36px" title="Astro" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36px" title="Tailwind CSS" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36px" title="Vite" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="36px" title="Flutter" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="36px" title="Dart" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36px" title="Kotlin" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="36px" title="Bash" align="left" style="padding-right:10px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36px" title="Git" align="left" style="padding-right:10px" />
-<br /><br />
-
----
-
 ### 🧑🏽‍💻 My_Daily_Algorithm.py
 _# When in doubt, execute this routine._
 
@@ -67,4 +45,5 @@ _$ git log --oneline --graph --decorate_
 [![Minimalist Hibicus Tea](https://lh3.googleusercontent.com/H5Nj4qOSIJSL4AqtBLGiW-XX1F-3gciYuLsEJxz11sTAk5IMZDm23QCLC3_PGJZhmHzlrsxkKMVYIcYk9V83_F1NML4=s275-w275-h800 "Minimalist Hibiscus Tea")](https://chromewebstore.google.com/detail/minimalist-hibiscus-tea/hkmpfcboggbaapblfbocajjnlhfgobon)
 [![Minimalist Green Tea](https://lh3.googleusercontent.com/ggpwEnWQWXsCtsP4X-FcbqD1domGuNEPS8KxOmFSmnMqIatFsTLudcVH--oVU6XjRC4tC1crkwCd5sdueuxHXowmhA=s275-w275-h800 "Minimalist Green Tea")](https://chromewebstore.google.com/detail/minimalist-green-tea/djdadbepccghjdlhfalllnjplhaaholm)
 [![Minimalist Grape Juice](https://lh3.googleusercontent.com/OIzcarfrYOJCTMqb0Kx9wA2WZkqP19J7g4fJ2RWf9Q-QlVHHun73L235EAyxq8u_c6iW2mR3iYxQ6NiKN9tVW2XjXw=s275-w275-h800 "Minimalist Grape Juice")](https://chromewebstore.google.com/detail/minimalist-grape-juice/ojbhoikombpgbehffhbepfkkfgafpmka)
+
 
