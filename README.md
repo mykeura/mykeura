@@ -2,7 +2,7 @@
 
 ### 😺 about_me()
 
-```python
+```
 ROLE = ("Digital Creator", "Master Tech Craftsman")
 ```
 
@@ -30,9 +30,6 @@ _$ git log --oneline --graph --decorate_
 | Project | What it is |
 | --- | --- |
 | [**minimalist-themes-for-hermes**](https://github.com/mykeura/minimalist-themes-for-hermes) | Eighteen warm, light color themes for Hermes Desktop, with readable UI refinements and a simple installable plugin. |
-| [**Minimalist Beetroot Juice**](https://github.com/mykeura/Minimalist-Beetroot-Juice) | Warm dusty rose that stays gentle on the eyes. Earthy, quiet, easy to leave on all day. |
-| [**Minimalist Coffee With Milk**](https://github.com/mykeura/Minimalist-Coffee-With-Milk) | The milky brown of a slow morning coffee. Warm, soft, never heavy on the eyes. |
-| [**Minimalist Cornmeal Porridge**](https://github.com/mykeura/Minimalist-Cornmeal-Porridge) | Soft golden corn-yellow, bright but gentle. A warm start to the day. |
 | [**arch-party**](https://github.com/mykeura/arch-party) | A lightweight, fun customization tool for your Arch Linux terminal: color schemes and custom ASCII art. |
 | [**deepseek-r1-locally-for-android**](https://github.com/mykeura/deepseek-r1-locally-for-android) | Run DeepSeek R1 locally on your Android device, no internet needed, using Termux and Arch Linux. |
 
