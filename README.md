@@ -25,13 +25,6 @@ _$ git log --oneline --graph --decorate_
 <a href="https://chromewebstore.google.com/detail/minimalist-green-tea/djdadbepccghjdlhfalllnjplhaaholm"><img src="https://lh3.googleusercontent.com/ggpwEnWQWXsCtsP4X-FcbqD1domGuNEPS8KxOmFSmnMqIatFsTLudcVH--oVU6XjRC4tC1crkwCd5sdueuxHXowmhA=s275-w275-h800" alt="Minimalist Green Tea" title="Minimalist Green Tea" width="180" /></a>
 <a href="https://chromewebstore.google.com/detail/minimalist-grape-juice/ojbhoikombpgbehffhbepfkkfgafpmka"><img src="https://lh3.googleusercontent.com/OIzcarfrYOJCTMqb0Kx9wA2WZkqP19J7g4fJ2RWf9Q-QlVHHun73L235EAyxq8u_c6iW2mR3iYxQ6NiKN9tVW2XjXw=s275-w275-h800" alt="Minimalist Grape Juice" title="Minimalist Grape Juice" width="180" /></a>
 
-#### 🎨 Themes and tools
-
-| Project | What it is |
-| --- | --- |
-| [**minimalist-themes-for-hermes**](https://github.com/mykeura/minimalist-themes-for-hermes) | Eighteen warm, light color themes for Hermes Desktop, with readable UI refinements and a simple installable plugin. |
-| [**arch-party**](https://github.com/mykeura/arch-party) | A lightweight, fun customization tool for your Arch Linux terminal: color schemes and custom ASCII art. |
-| [**deepseek-r1-locally-for-android**](https://github.com/mykeura/deepseek-r1-locally-for-android) | Run DeepSeek R1 locally on your Android device, no internet needed, using Termux and Arch Linux. |
 
 ---
 
