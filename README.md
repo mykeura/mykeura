@@ -14,20 +14,6 @@ Behind that is something I care about even more: the intersection of **technolog
 
 ---
 
-### 📂 /projects
-
-_$ git log --oneline --graph --decorate_
-<br />✨ A selection of projects I'm proud to build and maintain.
-
-#### 🌐 Browser extensions
-
-<a href="https://chromewebstore.google.com/detail/minimalist-hibiscus-tea/hkmpfcboggbaapblfbocajjnlhfgobon"><img src="https://lh3.googleusercontent.com/H5Nj4qOSIJSL4AqtBLGiW-XX1F-3gciYuLsEJxz11sTAk5IMZDm23QCLC3_PGJZhmHzlrsxkKMVYIcYk9V83_F1NML4=s275-w275-h800" alt="Minimalist Hibiscus Tea" title="Minimalist Hibiscus Tea" width="180" /></a>
-<a href="https://chromewebstore.google.com/detail/minimalist-green-tea/djdadbepccghjdlhfalllnjplhaaholm"><img src="https://lh3.googleusercontent.com/ggpwEnWQWXsCtsP4X-FcbqD1domGuNEPS8KxOmFSmnMqIatFsTLudcVH--oVU6XjRC4tC1crkwCd5sdueuxHXowmhA=s275-w275-h800" alt="Minimalist Green Tea" title="Minimalist Green Tea" width="180" /></a>
-<a href="https://chromewebstore.google.com/detail/minimalist-grape-juice/ojbhoikombpgbehffhbepfkkfgafpmka"><img src="https://lh3.googleusercontent.com/OIzcarfrYOJCTMqb0Kx9wA2WZkqP19J7g4fJ2RWf9Q-QlVHHun73L235EAyxq8u_c6iW2mR3iYxQ6NiKN9tVW2XjXw=s275-w275-h800" alt="Minimalist Grape Juice" title="Minimalist Grape Juice" width="180" /></a>
-
-
----
-
 ### 🧑🏽‍💻 My_Daily_Algorithm.py
 
 _# When in doubt, execute this routine._
